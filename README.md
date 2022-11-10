@@ -1,4 +1,4 @@
-# DIO - Trilha .NET - Programação orientada a objetos
+# Abstraindo Celualr - Trilha .NET - Programação orientada a objetos
 www.dio.me
 
 ## Desafio de projeto
